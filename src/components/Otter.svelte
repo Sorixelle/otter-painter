@@ -8,6 +8,12 @@
   img {
     max-height: 450px;
     max-width: 450px;
+
+    position:absolute;
+    left: var(--x);
+    top: var(--y);
+    z-index: var(--z);
+    transform: translate(-50%, -50%);
   }
 </style>
 

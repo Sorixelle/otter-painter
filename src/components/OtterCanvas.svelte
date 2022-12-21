@@ -40,6 +40,6 @@
 
 <div class="container" on:click={addOtter}>
   {#each otters as otter}
-    <Otter />
+    <Otter --x="{otter.x}px" --y="{otter.y}px" --z={otter.z} />
   {/each}
 </div>
