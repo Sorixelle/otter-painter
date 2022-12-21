@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Otter from "../components/Otter.svelte";
+  import OtterCanvas from "../components/OtterCanvas.svelte";
 </script>
 
 <style>
@@ -18,8 +18,8 @@
   }
 </style>
 
+<OtterCanvas />
+
 <div class="backdrop">
   <h1>click anywhere for otter :3</h1>
-
-  <Otter />
 </div>
