@@ -23,8 +23,6 @@
     ]
     nextZ = nextZ + 1;
   }
-
-  $: console.log(otters)
 </script>
 
 <style>
