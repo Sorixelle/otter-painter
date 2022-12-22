@@ -52,4 +52,4 @@ export default [
   "http://4.bp.blogspot.com/-9mtg7Ji5hik/TmXjSnVVuEI/AAAAAAAAA3M/Cl5IWEo2mis/s1600/Sea-Otter.jpg",
   "https://tehcute.com/pics/201206/help-name-this-cute-baby-otter-big.jpg",
   "https://i.redd.it/7ts0yfdzw5k21.jpg",
-]
+];
