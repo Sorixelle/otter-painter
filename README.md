@@ -1,5 +1,7 @@
 # Otter Painter
 
+[Link](https://thisotter.isincredibly.gay)
+
 Website that lets you click on the screen to add an otter. What more could you ever want from a website?
 
 I made this as part of a Secret Santa thing between a few Discord friends. We all had to make something without spending any money on it, so I decided to make a website because I'm good at those.
